@@ -513,7 +513,7 @@ msgstr "Urządzenie nie jest gotowe."
 
 #. • MSG_080
 msgid "Rufus detected that Windows is still flushing its internal buffers onto the USB device.\n\nDepending on the speed of your USB device, this operation may take a long time to complete, especially for large files.\n\nWe recommend that you let Windows finish, to avoid corruption. But if you grow tired of waiting, you can just unplug the device..."
-msgstr "Rufus wykrył że Windows ciągle opróźnia swoje is bufory na urządzenie USB.\n\nZależnie od prędkości twojego urządzenia USB, ta operacja może zająć dużo czasu, zwłaszcza dla dużych plików.\n\nZalecamy abyś pozwolił Windowsowui skończyć aby uniknąć uszkodzeń. Ale jeśli jesteś już zmęczony czekaniem możesz po prostu odłączyć urządzenie..."
+msgstr "Rufus wykrył, że Windows ciągle opróźnia swoje wewnętrzne bufory na urządzeniu USB.\n\nZależnie od prędkości twojego urządzenia USB, ta operacja może zająć dużo czasu, zwłaszcza dla dużych plików.\n\nZalecamy abyś pozwolił Windowsowi skończyć, aby uniknąć uszkodzeń. Ale jeśli jesteś już zmęczony czekaniem możesz po prostu odłączyć urządzenie..."
 
 #. • MSG_081
 msgid "Unsupported image"
